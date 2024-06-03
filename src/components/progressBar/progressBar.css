@@ -1,0 +1,16 @@
+.progressCtn {
+    background-color: white;
+    height: 40px;
+    width: 700px;
+    display: flex;
+    border: 1px solid gray;
+    box-sizing: border-box;
+  }
+  
+  .filled {
+    background-color: blue;
+  }
+  
+  .unfilled {
+    background-color: orange;
+  }
